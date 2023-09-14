@@ -23,7 +23,7 @@ const RestaurantCards = (props) => {
               src={CDN_URL + cloudinaryImageId}
             ></img>
           </div>
-          <div className="restro-info w-50 px-2">
+          <div className="restro-info w-50">
             <h1 className="font-bold">{name}</h1>
             <h6 className="font-thin text-sm">
               {cuisines.length > 3
