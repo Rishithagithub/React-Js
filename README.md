@@ -6,8 +6,22 @@ The Concepts used for building web app :
 Functional Components,
 Routing,
 Lazy Loading,
-Redux Tool Kit Library, 
+Redux Tool Kit Library,
+Custom Hookies and 
 Hookies for state management.
+
+Tools used are Visual Studio Code
+
+-> Npm (node package maanger)
+
+-> parcel bundler-bable compiler
+
+-> Tailwindcss framwork -css
+
+-> FontAwesomeFreeIcons Toolkit-css
+
+-> Redux ToolKit
+
 
 
 
